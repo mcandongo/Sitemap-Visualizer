@@ -1,4 +1,4 @@
-# VEED Sitemap Visualizer
+# Sitemap Visualizer
 
 A browser-based site architecture tool built for SEO analysis. Upload a Screaming Frog crawl export and instantly explore your site structure through interactive cluster cards and a zoomable tree view.
 
